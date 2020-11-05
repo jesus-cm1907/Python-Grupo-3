@@ -1,3 +1,4 @@
+
 DNI:Nombre1:Nombre2:Apellido1:Apellido2
 67834547:Maria:Jose:Abad:Garcia
 87452221:Maria::Fernandez:Lopera
@@ -19,3 +20,10 @@ DNI:Nombre1:Nombre2:Apellido1:Apellido2
 34551211:Fermin:Jose:Sanchez:Sanchez
 78363677:Enrique:Manuel:Sanchez:Santaella
 21334456:Eduardo::Torres:Chacon
+
+Miguel:Juan:Pedro
+Luis:Antonio:Maria
+Marcos:Eva
+Ivan:Jesus:Antonio:Luis
+Rafael:Francisco:Jose
+
