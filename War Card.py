@@ -60,20 +60,20 @@ class Jugador:
 print("Empecemos!")
 
 
-# Create New Cartas and split in half
+
 d = Cartas()
 d.shuffle()
 mitad1, mitad2 = d.cortar()
 
-# Create Both Jugadors
+
 comp = Jugador("ordenador", Mano(mitad1))
 nombre = input("Introduzca su nombre de usuario: ")
 usuario = Jugador(nombre, Mano(mitad2))
 
-# Set Round Count
+
 Rondas_Totales = 0
 puntuacionguerra = 0
-# Let's play
+
 while usuario.todaviatienecartas() and comp.todaviatienecartas():
     Rondas_Totales += 1
     print("Comienza una nueva ronda")
