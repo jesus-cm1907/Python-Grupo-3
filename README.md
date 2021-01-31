@@ -1,6 +1,3 @@
-
-# Python-Grupo-3
-
 # Entorno Servidor
 
 
@@ -121,4 +118,3 @@ git merge branchName
 2. Este botón te redigirá a una vista como la siguiente, en la que tendrás que elegir la rama base (a la que quieres aplicar los cambios) y la rama compare (tu rama de trabajo):
 
 ![](./docs/BranchesPR.png)
-
